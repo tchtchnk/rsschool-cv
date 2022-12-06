@@ -17,5 +17,5 @@ function multiply(a, b){
 ```
 # Experience
 # Language
-* English - A2
 * French - B1
+* English - A2
