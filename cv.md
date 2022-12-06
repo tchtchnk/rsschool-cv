@@ -7,7 +7,7 @@
 # About me
 I am responsible, reliable and team-player. I want to learn JS/FE in RSS school.
 # Education
-* University: Mogilev State University named by A.A Kuleshov, Teacher of foreign languages
+* University: Mogilev State University named by A.A Kuleshov, Teacher of foreign languages.
 * Courses:: A1QA Software testing
 # Code Example
 ```
